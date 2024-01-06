@@ -1,0 +1,4 @@
+Pandas
+Numpy
+Scikit-learn=1.2.2
+Streamlit
